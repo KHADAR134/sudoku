@@ -1,4 +1,6 @@
-# Sudoku
+### EX.NO: 06
+### DATE: 07-06-2022
+# <p align="center">Sudoku</p>
 
 ## Aim:
 To develop a code to solve a sudoku puzzle using contraint propagation
@@ -35,7 +37,11 @@ Check whether any box which allows only a certain digit in the unit after elimin
 ### Step 5:
 Repeat 3 and 4 until we get the solved puzzle.
 ## Program:
+```python
+DEVELOPED BY:SHAIK KHADAR BASHA
+REGISTER NO:212220230045
 ```
+```python
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
